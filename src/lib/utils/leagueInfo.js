@@ -63,7 +63,7 @@ export const managers = [
         image: "/managers/name.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 2724, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "OLB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "DE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "",
       "tradingScale": 7, // 1 - 10
@@ -253,7 +253,7 @@ export const managers = [
       "bio": "58 years old,  2.5 kids,  2 grandkids. Adrenaline junkie.",
       "photo": "/managers/Jestr4269.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 1986, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "nos", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "VapidAirheads", // Can be anything (usually your rival's name)
