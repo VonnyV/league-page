@@ -13,7 +13,9 @@ export const homepageText = `
   <p>Line-Ups - Owners are expected to play a Full starting lineup each week, Bye week can't be placed in your starting lineup unless you have no other options.</p>
   <p>Trade - Trade are Welcome but each trade is subject to review by a commissioner or even put up to league vote.</p>
   <p>Discord - All owners must join the League Discord and be active to some degree; this will help with keeping everyone up to date with anything league related.</p>
-  <p>55 Point Rule - If anyone beats their opponents by 55 points, they get to rename their oppenents nickname, which will last the entire season or until they beat another opponent by 55 points.</p>
+  <p>55 Point Rule - If anyone beats their opponents by 55 points, they get to rename their oppenents nickname, which will last the entire season or until they also beat another opponent by 55 points.</p>
+  <p></p>
+  <p>League dues are set at $50. Dues are collected through <a href="https://www.leaguesafe.com/join/4180050">LeagueSafe</a>. All managers must be fully paid up before the start of regular season. In the event that a manager is having difficulties paying the dues, please reach out to either Vapid or Von.</p>
 `;
 
 /*   STEP 3   */
