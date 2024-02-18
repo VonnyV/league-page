@@ -7,12 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Activity - Owners must be fully active during the Fantasy Season and active in some capacity during the Fantasy Offseason.</p>
+  <p>Entry Fee - Entry Fee is $50 Per year, with all Entry Fee for 1 Season in Advance. ($100 this offseason for Year 1 & Year 2)</p>
+  <p>Tanking - No deliberate tanking a season or team, rebuilds are welcome but all owners are expected to play each week to win.</p>
+  <p>Line-Ups - Owners are expected to play a Full starting lineup each week, Bye week can't be placed in your starting lineup unless you have no other options.</p>
+  <p>Trade - Trade are Welcome but each trade is subject to review by a commissioner or even put up to league vote.</p>
+  <p>Discord - All owners must join the League Discord and be active to some degree; this will help with keeping everyone up to date with anything league related.</p>
+  <p>55 Point Rule - If anyone beats their opponents by 55 points, they get to rename their oppenents nickname, which will last the entire season or until they beat another opponent by 55 points.</p>
 `;
 
 /*   STEP 3   */
